@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title-pink-chocolate">
+  <title id="title-pink-chocolate">Pink Hot Chocolate illustration</title>
+  <rect width="100%" height="100%" fill="#5a1f1f"/>
+  <circle cx="336.00" cy="544.00" r="440.00" fill="#f388bd" opacity="0.85"/>
+  <circle cx="984.00" cy="160.00" r="320.00" fill="#fde5f2" opacity="0.6"/>
+  <path d="M0 560.00 Q 384.00 440.00, 744.00 640.00 T 1200 560.00 V 800 H 0 Z" fill="#fcdbee" opacity="0.35"/>
+  <text x="312.00" y="464.00" font-family="'Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji','DejaVu Sans',sans-serif" font-size="304.00" text-anchor="middle">🍓</text>
+  <text x="696.00" y="336.00" fill="#ffffff" font-family="'Vazirmatn','IRANSans','Tahoma','Arial',sans-serif" font-size="80.00" font-weight="700">Pink Hot Chocolate</text>
+  <text x="696.00" y="416.00" fill="#fdf2f8" font-family="'Vazirmatn','IRANSans','Tahoma','Arial',sans-serif" font-size="40.00" font-weight="400">Berry-tinted sweetness</text>
+  <text x="696.00" y="480.00" fill="#ffffff" font-family="'Vazirmatn','IRANSans','Tahoma','Arial',sans-serif" font-size="48.00" font-weight="600">پینک چاکلت </text>
+</svg>
