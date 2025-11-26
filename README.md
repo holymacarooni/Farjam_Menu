@@ -18,6 +18,6 @@ pnpm run build
    pnpm run deploy
    ```
 
-   This calls `wrangler pages deploy ./dist/public --project-name=farjam-cafe-menu` under the hood.
+   This builds the project and then calls `wrangler pages deploy ./dist/public --project-name=farjam-cafe-menu` under the hood.
 
-If your CI/CD pipeline previously used `npx wrangler deploy`, change it to `pnpm run deploy` (or `pnpm run deploy:pages`) so the Pages-specific command is executed.
+If your CI/CD pipeline previously used `npx wrangler deploy`, change it to `pnpm run deploy` (or `pnpm run deploy:pages`) so the Pages-specific command is executed. A GitHub Actions workflow is provided at `.github/workflows/cloudflare-pages.yml` that performs the correct Pages deployment after building the site.
